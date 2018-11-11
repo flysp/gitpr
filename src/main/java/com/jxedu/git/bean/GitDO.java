@@ -10,12 +10,18 @@ public class GitDO {
      private  String  id;
 
      private String tel;
-     
+
      private String  account;
 
      private String status;
 
+     private  String param1;
+
+     private  String param2;
+
      private String password;
+
+     private  String param3;
 
      private String address;
 }
