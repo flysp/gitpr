@@ -15,13 +15,11 @@ public class GitDO {
 
      private String status;
 
-     private  String param1;
-
      private  String param2;
 
      private String password;
 
-     private  String param3;
+     private  String img;
 
      private String address;
 }
