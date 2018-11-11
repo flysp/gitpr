@@ -9,7 +9,11 @@ public class GitDO {
 
      private  String  id;
 
+     private String tel;
+     
      private String  account;
+
+     private String status;
 
      private String password;
 
