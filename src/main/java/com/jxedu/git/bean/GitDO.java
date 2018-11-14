@@ -21,9 +21,14 @@ public class GitDO {
 
      private  String img;
 
+     private  String paramd;
      private String address;
 
      private String dev2;
 
      private String dev3;
+
+     private  String parmdd;
+     private  String dev22;
+
 }
